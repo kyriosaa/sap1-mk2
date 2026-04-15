@@ -1,0 +1,33 @@
+# KiCad temp and backup files
+*.bak
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*~
+_autosave-*
+*.tmp
+fp-info-cache
+*.lck
+.history/
+
+# local proj settings
+*.kicad_prl
+
+# netlists and misc
+*.net
+*.bus
+*.prm
+*.log
+*.raw
+*.csv
+*.xml
+
+# manufacturing 
+gerbers/
+plots/
+pdf/
+*.gbr
+*.drl
+*.pos
+*.rpt
+
+

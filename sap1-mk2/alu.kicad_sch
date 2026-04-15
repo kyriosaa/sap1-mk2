@@ -1,0 +1,13 @@
+(kicad_sch 
+  (version 20260306) 
+  (generator "eeschema") 
+  (generator_version "10.0") 
+  (uuid "fbdc1c9b-758b-4b32-bf6d-33ad2e852e19") 
+  (paper "A4") 
+  (title_block 
+    (rev "1.0") 
+    (company "Purit (Kin) Hongjirakul") 
+    (comment 1 "SAP-1 8-bit Computer") 
+    (comment 2 "github.com/kyriosaa/sap1-mk2") 
+    (comment 3 "National Taipei University of Technology - IEECS")) 
+  (lib_symbols))
