@@ -1,357 +1,481 @@
-(kicad_sch 
-  (version 20260306) 
-  (generator "eeschema") 
-  (generator_version "10.0") 
-  (uuid "3f7d2678-03a4-43b1-a381-45514e4817f6") 
-  (paper "A4") 
-  (title_block 
-    (rev "1.0") 
-    (company "Purit (Kin) Hongjirakul") 
-    (comment 1 "SAP-1 8-bit Computer") 
-    (comment 2 "github.com/kyriosaa/sap1-mk2") 
-    (comment 3 "National Taipei University of Technology - IEECS")) 
-  (lib_symbols) 
-  (sheet 
-    (at 212.09 114.3) 
-    (size 35.56 20.32) 
-    (exclude_from_sim no) 
-    (in_bom yes) 
-    (on_board yes) 
-    (dnp no) 
-    (fields_autoplaced yes) 
-    (stroke 
-      (width 0.1524) 
-      (type solid)) 
-    (fill 
-      (color 0 0 0 0)) 
-    (uuid "2490ded5-08e3-424e-b34a-12122b2ac11e") 
-    (property "Sheetname" "Output_Register" 
-      (at 212.09 113.5884 0) 
-      (show_name no) 
-      (do_not_autoplace no) 
-      (effects 
-        (font 
-          (size 1.27 1.27)) 
-        (justify left bottom))) 
-    (property "Sheetfile" "regout.kicad_sch" 
-      (at 212.09 135.2046 0) 
-      (show_name no) 
-      (do_not_autoplace no) 
-      (effects 
-        (font 
-          (size 1.27 1.27)) 
-        (justify left top))) 
-    (instances 
-      (project "sap1-mk2" 
-        (path "/3f7d2678-03a4-43b1-a381-45514e4817f6" 
-          (page "10"))))) 
-  (sheet 
-    (at 54.61 97.79) 
-    (size 40.64 24.13) 
-    (exclude_from_sim no) 
-    (in_bom yes) 
-    (on_board yes) 
-    (dnp no) 
-    (fields_autoplaced yes) 
-    (stroke 
-      (width 0.1524) 
-      (type solid)) 
-    (fill 
-      (color 0 0 0 0)) 
-    (uuid "317e5284-8270-45b9-a819-9423585e35c9") 
-    (property "Sheetname" "MAR" 
-      (at 54.61 97.0784 0) 
-      (show_name no) 
-      (do_not_autoplace no) 
-      (effects 
-        (font 
-          (size 1.27 1.27)) 
-        (justify left bottom))) 
-    (property "Sheetfile" "mar.kicad_sch" 
-      (at 54.61 122.5046 0) 
-      (show_name no) 
-      (do_not_autoplace no) 
-      (effects 
-        (font 
-          (size 1.27 1.27)) 
-        (justify left top))) 
-    (instances 
-      (project "sap1-mk2" 
-        (path "/3f7d2678-03a4-43b1-a381-45514e4817f6" 
-          (page "7"))))) 
-  (sheet 
-    (at 54.61 133.35) 
-    (size 40.64 20.32) 
-    (exclude_from_sim no) 
-    (in_bom yes) 
-    (on_board yes) 
-    (dnp no) 
-    (fields_autoplaced yes) 
-    (stroke 
-      (width 0.1524) 
-      (type solid)) 
-    (fill 
-      (color 0 0 0 0)) 
-    (uuid "35a4ea73-66ca-4189-bf65-07463056cfee") 
-    (property "Sheetname" "RAM" 
-      (at 54.61 132.6384 0) 
-      (show_name no) 
-      (do_not_autoplace no) 
-      (effects 
-        (font 
-          (size 1.27 1.27)) 
-        (justify left bottom))) 
-    (property "Sheetfile" "ram.kicad_sch" 
-      (at 54.61 154.2546 0) 
-      (show_name no) 
-      (do_not_autoplace no) 
-      (effects 
-        (font 
-          (size 1.27 1.27)) 
-        (justify left top))) 
-    (instances 
-      (project "sap1-mk2" 
-        (path "/3f7d2678-03a4-43b1-a381-45514e4817f6" 
-          (page "8"))))) 
-  (sheet 
-    (at 114.3 127) 
-    (size 77.47 29.21) 
-    (exclude_from_sim no) 
-    (in_bom yes) 
-    (on_board yes) 
-    (dnp no) 
-    (fields_autoplaced yes) 
-    (stroke 
-      (width 0.1524) 
-      (type solid)) 
-    (fill 
-      (color 0 0 0 0)) 
-    (uuid "473460a8-dce5-471d-a4de-70fad0719b89") 
-    (property "Sheetname" "Control_Logic" 
-      (at 114.3 126.2884 0) 
-      (show_name no) 
-      (do_not_autoplace no) 
-      (effects 
-        (font 
-          (size 1.27 1.27)) 
-        (justify left bottom))) 
-    (property "Sheetfile" "controllogic.kicad_sch" 
-      (at 114.3 156.7946 0) 
-      (show_name no) 
-      (do_not_autoplace no) 
-      (effects 
-        (font 
-          (size 1.27 1.27)) 
-        (justify left top))) 
-    (instances 
-      (project "sap1-mk2" 
-        (path "/3f7d2678-03a4-43b1-a381-45514e4817f6" 
-          (page "11"))))) 
-  (sheet 
-    (at 212.09 82.55) 
-    (size 35.56 21.59) 
-    (exclude_from_sim no) 
-    (in_bom yes) 
-    (on_board yes) 
-    (dnp no) 
-    (fields_autoplaced yes) 
-    (stroke 
-      (width 0.1524) 
-      (type solid)) 
-    (fill 
-      (color 0 0 0 0)) 
-    (uuid "4b2a2fd6-03d9-4511-a85d-318337105dd2") 
-    (property "Sheetname" "B_Register" 
-      (at 212.09 81.8384 0) 
-      (show_name no) 
-      (do_not_autoplace no) 
-      (effects 
-        (font 
-          (size 1.27 1.27)) 
-        (justify left bottom))) 
-    (property "Sheetfile" "regb.kicad_sch" 
-      (at 212.09 104.7246 0) 
-      (show_name no) 
-      (do_not_autoplace no) 
-      (effects 
-        (font 
-          (size 1.27 1.27)) 
-        (justify left top))) 
-    (instances 
-      (project "sap1-mk2" 
-        (path "/3f7d2678-03a4-43b1-a381-45514e4817f6" 
-          (page "4"))))) 
-  (sheet 
-    (at 212.09 50.8) 
-    (size 35.56 24.13) 
-    (exclude_from_sim no) 
-    (in_bom yes) 
-    (on_board yes) 
-    (dnp no) 
-    (fields_autoplaced yes) 
-    (stroke 
-      (width 0.1524) 
-      (type solid)) 
-    (fill 
-      (color 0 0 0 0)) 
-    (uuid "7f201985-7881-442d-9891-c30f24aa2add") 
-    (property "Sheetname" "A_Register" 
-      (at 212.09 50.0884 0) 
-      (show_name no) 
-      (do_not_autoplace no) 
-      (effects 
-        (font 
-          (size 1.27 1.27)) 
-        (justify left bottom))) 
-    (property "Sheetfile" "rega.kicad_sch" 
-      (at 212.09 75.5146 0) 
-      (show_name no) 
-      (do_not_autoplace no) 
-      (effects 
-        (font 
-          (size 1.27 1.27)) 
-        (justify left top))) 
-    (instances 
-      (project "sap1-mk2" 
-        (path "/3f7d2678-03a4-43b1-a381-45514e4817f6" 
-          (page "3"))))) 
-  (sheet 
-    (at 53.34 58.42) 
-    (size 30.48 21.59) 
-    (exclude_from_sim no) 
-    (in_bom yes) 
-    (on_board yes) 
-    (dnp no) 
-    (fields_autoplaced yes) 
-    (stroke 
-      (width 0.1524) 
-      (type solid)) 
-    (fill 
-      (color 0 0 0 0)) 
-    (uuid "8d7fc580-f307-41ab-9d26-509ef56aed17") 
-    (property "Sheetname" "Clock_Module" 
-      (at 53.34 57.7084 0) 
-      (show_name no) 
-      (do_not_autoplace no) 
-      (effects 
-        (font 
-          (size 1.27 1.27)) 
-        (justify left bottom))) 
-    (property "Sheetfile" "clock.kicad_sch" 
-      (at 53.34 80.5946 0) 
-      (show_name no) 
-      (do_not_autoplace no) 
-      (effects 
-        (font 
-          (size 1.27 1.27)) 
-        (justify left top))) 
-    (instances 
-      (project "sap1-mk2" 
-        (path "/3f7d2678-03a4-43b1-a381-45514e4817f6" 
-          (page "2"))))) 
-  (sheet 
-    (at 109.22 69.85) 
-    (size 36.83 22.86) 
-    (exclude_from_sim no) 
-    (in_bom yes) 
-    (on_board yes) 
-    (dnp no) 
-    (fields_autoplaced yes) 
-    (stroke 
-      (width 0.1524) 
-      (type solid)) 
-    (fill 
-      (color 0 0 0 0)) 
-    (uuid "a252d3d9-6ea9-4bbe-9d06-7a4356a009cd") 
-    (property "Sheetname" "Program_Counter" 
-      (at 109.22 69.1384 0) 
-      (show_name no) 
-      (do_not_autoplace no) 
-      (effects 
-        (font 
-          (size 1.27 1.27)) 
-        (justify left bottom))) 
-    (property "Sheetfile" "progcounter.kicad_sch" 
-      (at 109.22 93.2946 0) 
-      (show_name no) 
-      (do_not_autoplace no) 
-      (effects 
-        (font 
-          (size 1.27 1.27)) 
-        (justify left top))) 
-    (instances 
-      (project "sap1-mk2" 
-        (path "/3f7d2678-03a4-43b1-a381-45514e4817f6" 
-          (page "9"))))) 
-  (sheet 
-    (at 138.43 29.21) 
-    (size 41.91 24.13) 
-    (exclude_from_sim no) 
-    (in_bom yes) 
-    (on_board yes) 
-    (dnp no) 
-    (fields_autoplaced yes) 
-    (stroke 
-      (width 0.1524) 
-      (type solid)) 
-    (fill 
-      (color 0 0 0 0)) 
-    (uuid "e01257d6-dc88-453c-93bc-85a9af72fc85") 
-    (property "Sheetname" "ALU" 
-      (at 138.43 28.4984 0) 
-      (show_name no) 
-      (do_not_autoplace no) 
-      (effects 
-        (font 
-          (size 1.27 1.27)) 
-        (justify left bottom))) 
-    (property "Sheetfile" "alu.kicad_sch" 
-      (at 138.43 53.9246 0) 
-      (show_name no) 
-      (do_not_autoplace no) 
-      (effects 
-        (font 
-          (size 1.27 1.27)) 
-        (justify left top))) 
-    (instances 
-      (project "sap1-mk2" 
-        (path "/3f7d2678-03a4-43b1-a381-45514e4817f6" 
-          (page "6"))))) 
-  (sheet 
-    (at 165.1 69.85) 
-    (size 38.1 24.13) 
-    (exclude_from_sim no) 
-    (in_bom yes) 
-    (on_board yes) 
-    (dnp no) 
-    (fields_autoplaced yes) 
-    (stroke 
-      (width 0.1524) 
-      (type solid)) 
-    (fill 
-      (color 0 0 0 0)) 
-    (uuid "ea07e5de-6d97-48da-9fab-147162188392") 
-    (property "Sheetname" "Instruction_Register" 
-      (at 165.1 69.1384 0) 
-      (show_name no) 
-      (do_not_autoplace no) 
-      (effects 
-        (font 
-          (size 1.27 1.27)) 
-        (justify left bottom))) 
-    (property "Sheetfile" "instructionreg.kicad_sch" 
-      (at 165.1 94.5646 0) 
-      (show_name no) 
-      (do_not_autoplace no) 
-      (effects 
-        (font 
-          (size 1.27 1.27)) 
-        (justify left top))) 
-    (instances 
-      (project "sap1-mk2" 
-        (path "/3f7d2678-03a4-43b1-a381-45514e4817f6" 
-          (page "5"))))) 
-  (sheet_instances 
-    (path "/" 
-      (page "1"))) 
-  (embedded_fonts no))
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "3f7d2678-03a4-43b1-a381-45514e4817f6")
+	(paper "A4")
+	(title_block
+		(rev "1.0")
+		(company "Purit (Kin) Hongjirakul")
+		(comment 1 "SAP-1 8-bit Computer")
+		(comment 2 "github.com/kyriosaa/sap1-mk2")
+		(comment 3 "National Taipei University of Technology - IEECS")
+	)
+	(lib_symbols)
+	(sheet
+		(at 212.09 114.3)
+		(size 35.56 20.32)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "2490ded5-08e3-424e-b34a-12122b2ac11e")
+		(property "Sheetname" "Output_Register"
+			(at 212.09 113.5884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "regout.kicad_sch"
+			(at 212.09 135.2046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "sap1-mk2"
+				(path "/3f7d2678-03a4-43b1-a381-45514e4817f6"
+					(page "10")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 54.61 97.79)
+		(size 40.64 24.13)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "317e5284-8270-45b9-a819-9423585e35c9")
+		(property "Sheetname" "MAR"
+			(at 54.61 97.0784 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mar.kicad_sch"
+			(at 54.61 122.5046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "sap1-mk2"
+				(path "/3f7d2678-03a4-43b1-a381-45514e4817f6"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 54.61 133.35)
+		(size 40.64 20.32)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "35a4ea73-66ca-4189-bf65-07463056cfee")
+		(property "Sheetname" "RAM"
+			(at 54.61 132.6384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ram.kicad_sch"
+			(at 54.61 154.2546 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "sap1-mk2"
+				(path "/3f7d2678-03a4-43b1-a381-45514e4817f6"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 114.3 127)
+		(size 77.47 29.21)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "473460a8-dce5-471d-a4de-70fad0719b89")
+		(property "Sheetname" "Control_Logic"
+			(at 114.3 126.2884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "controllogic.kicad_sch"
+			(at 114.3 156.7946 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "sap1-mk2"
+				(path "/3f7d2678-03a4-43b1-a381-45514e4817f6"
+					(page "11")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 212.09 82.55)
+		(size 35.56 21.59)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "4b2a2fd6-03d9-4511-a85d-318337105dd2")
+		(property "Sheetname" "B_Register"
+			(at 212.09 81.8384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "regb.kicad_sch"
+			(at 212.09 104.7246 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "sap1-mk2"
+				(path "/3f7d2678-03a4-43b1-a381-45514e4817f6"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 212.09 50.8)
+		(size 35.56 24.13)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "7f201985-7881-442d-9891-c30f24aa2add")
+		(property "Sheetname" "A_Register"
+			(at 212.09 50.0884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "rega.kicad_sch"
+			(at 212.09 75.5146 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "sap1-mk2"
+				(path "/3f7d2678-03a4-43b1-a381-45514e4817f6"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 53.34 58.42)
+		(size 30.48 21.59)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "8d7fc580-f307-41ab-9d26-509ef56aed17")
+		(property "Sheetname" "Clock_Module"
+			(at 53.34 57.7084 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "clock.kicad_sch"
+			(at 53.34 80.5946 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "sap1-mk2"
+				(path "/3f7d2678-03a4-43b1-a381-45514e4817f6"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 109.22 69.85)
+		(size 36.83 22.86)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "a252d3d9-6ea9-4bbe-9d06-7a4356a009cd")
+		(property "Sheetname" "Program_Counter"
+			(at 109.22 69.1384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "progcounter.kicad_sch"
+			(at 109.22 93.2946 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "sap1-mk2"
+				(path "/3f7d2678-03a4-43b1-a381-45514e4817f6"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 138.43 29.21)
+		(size 41.91 24.13)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "e01257d6-dc88-453c-93bc-85a9af72fc85")
+		(property "Sheetname" "ALU"
+			(at 138.43 28.4984 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "alu.kicad_sch"
+			(at 138.43 53.9246 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "sap1-mk2"
+				(path "/3f7d2678-03a4-43b1-a381-45514e4817f6"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 165.1 69.85)
+		(size 38.1 24.13)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "ea07e5de-6d97-48da-9fab-147162188392")
+		(property "Sheetname" "Instruction_Register"
+			(at 165.1 69.1384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "instructionreg.kicad_sch"
+			(at 165.1 94.5646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "sap1-mk2"
+				(path "/3f7d2678-03a4-43b1-a381-45514e4817f6"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
