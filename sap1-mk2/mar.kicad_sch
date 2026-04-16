@@ -2510,7 +2510,7 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 148.59) (xy 132.08 148.59)
+			(xy 119.38 148.59) (xy 132.08 148.59)
 		)
 		(stroke
 			(width 0)
@@ -2520,7 +2520,7 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 109.22) (xy 120.65 148.59)
+			(xy 119.38 109.22) (xy 119.38 148.59)
 		)
 		(stroke
 			(width 0)
@@ -3030,7 +3030,7 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 109.22) (xy 120.65 109.22)
+			(xy 124.46 109.22) (xy 119.38 109.22)
 		)
 		(stroke
 			(width 0)
@@ -4358,7 +4358,7 @@
 		(dnp no)
 		(uuid "5b2f580e-8eb2-4737-979b-de432fb08e39")
 		(property "Reference" "D29"
-			(at 85.09 67.564 0)
+			(at 85.09 66.294 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4450,7 +4450,7 @@
 		(dnp no)
 		(uuid "5bfee6e2-2c60-4dbe-8d92-68ae7268055f")
 		(property "Reference" "D27"
-			(at 69.85 67.564 0)
+			(at 69.85 66.294 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5553,7 +5553,7 @@
 		(dnp no)
 		(uuid "d9ec2ccc-63b8-41ce-a83c-53812498962c")
 		(property "Reference" "D26"
-			(at 62.23 67.564 0)
+			(at 62.23 66.294 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5645,7 +5645,7 @@
 		(dnp no)
 		(uuid "da1192f6-f2e3-4bf7-8b3b-98f33c1b04a4")
 		(property "Reference" "D28"
-			(at 77.47 67.564 0)
+			(at 77.47 66.294 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
