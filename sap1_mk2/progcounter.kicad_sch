@@ -5,6 +5,8 @@
 	(uuid "96e38c8a-7f50-4e13-9036-67f818643e86")
 	(paper "A4")
 	(title_block
+		(title "Program Counter")
+		(date "2026-04-17")
 		(rev "1.0")
 		(company "Purit (Kin) Hongjirakul")
 		(comment 1 "SAP-1 8-bit Computer")
