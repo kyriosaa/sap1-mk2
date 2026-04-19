@@ -3847,7 +3847,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 108.712 173.99 90)
 			(hide yes)
 			(show_name no)
@@ -3926,7 +3926,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 215.9 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -4125,7 +4125,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-20_W7.62mm"
 			(at 80.01 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -4259,7 +4259,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
 			(at 144.78 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -4340,7 +4340,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 85.852 173.99 90)
 			(hide yes)
 			(show_name no)
@@ -4419,7 +4419,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 147.32 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -4542,7 +4542,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 116.332 173.99 90)
 			(hide yes)
 			(show_name no)
@@ -4779,7 +4779,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 140.97 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -4950,7 +4950,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
 			(at 55.88 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -5031,7 +5031,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 93.472 173.99 90)
 			(hide yes)
 			(show_name no)
@@ -5112,7 +5112,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 131.572 173.99 90)
 			(hide yes)
 			(show_name no)
@@ -5271,7 +5271,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 110.49 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -5363,7 +5363,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 139.192 173.99 90)
 			(hide yes)
 			(show_name no)
@@ -5522,7 +5522,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 87.63 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -5692,7 +5692,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 125.73 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -5784,7 +5784,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 118.11 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -5954,7 +5954,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 123.952 173.99 90)
 			(hide yes)
 			(show_name no)
@@ -6035,7 +6035,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 133.35 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -6127,7 +6127,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 102.87 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -6219,7 +6219,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 101.092 173.99 90)
 			(hide yes)
 			(show_name no)
@@ -6300,7 +6300,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 95.25 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -6469,7 +6469,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
 			(at 213.36 100.33 0)
 			(hide yes)
 			(show_name no)

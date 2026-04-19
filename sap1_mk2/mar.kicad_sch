@@ -3693,7 +3693,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 78.232 78.74 90)
 			(hide yes)
 			(show_name no)
@@ -3772,7 +3772,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 92.71 128.778 90)
 			(hide yes)
 			(show_name no)
@@ -3851,7 +3851,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 81.28 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -4175,7 +4175,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 132.08 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -4298,7 +4298,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 62.992 78.74 90)
 			(hide yes)
 			(show_name no)
@@ -4379,7 +4379,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 87.63 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -4471,7 +4471,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 72.39 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -4562,7 +4562,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
 			(at 212.09 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -4719,7 +4719,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 214.63 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -4998,7 +4998,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_DIP_SPSTx04_Piano_10.8x11.72mm_W7.62mm_P2.54mm"
 			(at 132.08 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -5097,7 +5097,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 85.852 78.74 90)
 			(hide yes)
 			(show_name no)
@@ -5177,7 +5177,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
 			(at 148.59 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -5256,7 +5256,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 92.71 138.938 90)
 			(hide yes)
 			(show_name no)
@@ -5415,7 +5415,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 70.612 78.74 90)
 			(hide yes)
 			(show_name no)
@@ -5574,7 +5574,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 64.77 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -5666,7 +5666,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 80.01 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -5757,7 +5757,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_Push_2P2T_Toggle_CK_PVA2OAH5xxxxxxV2"
 			(at 64.77 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -5917,7 +5917,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 81.28 127 0)
 			(hide yes)
 			(show_name no)

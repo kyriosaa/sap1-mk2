@@ -8036,7 +8036,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 100.33 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -8126,7 +8126,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 242.57 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -8241,7 +8241,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 104.14 22.098 90)
 			(hide yes)
 			(show_name no)
@@ -8322,7 +8322,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 115.57 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -8412,7 +8412,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 76.2 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -8527,7 +8527,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
 			(at 39.37 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -8898,7 +8898,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 242.57 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -9013,7 +9013,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 104.14 37.338 90)
 			(hide yes)
 			(show_name no)
@@ -9092,7 +9092,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 102.108 179.07 90)
 			(hide yes)
 			(show_name no)
@@ -9171,7 +9171,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 93.98 25.4 0)
 			(hide yes)
 			(show_name no)
@@ -9415,7 +9415,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 107.188 179.07 90)
 			(hide yes)
 			(show_name no)
@@ -9496,7 +9496,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 161.29 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -9586,7 +9586,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 157.988 179.07 90)
 			(hide yes)
 			(show_name no)
@@ -9665,7 +9665,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 91.948 179.07 90)
 			(hide yes)
 			(show_name no)
@@ -9744,7 +9744,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 93.98 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -9834,7 +9834,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 139.7 32.258 90)
 			(hide yes)
 			(show_name no)
@@ -9913,7 +9913,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 127.508 179.07 90)
 			(hide yes)
 			(show_name no)
@@ -10069,7 +10069,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 242.57 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -10103,46 +10103,46 @@
 			)
 		)
 		(pin "7"
-			(uuid "0659fffa-dd60-4b60-9f4c-fc47c6d14e99")
+			(uuid "0659fffa-dd60-4b60-9f4c-fc47c6d14e9b")
 		)
 		(pin "13"
-			(uuid "940df43d-26b8-494a-b611-2121abdbfa74")
+			(uuid "940df43d-26b8-494a-b611-2121abdbfa76")
 		)
 		(pin "1"
-			(uuid "f03a2e0f-81fa-4f20-a211-d41765f6db7f")
+			(uuid "f03a2e0f-81fa-4f20-a211-d41765f6db80")
 		)
 		(pin "3"
-			(uuid "36814099-b763-4727-9a46-3fc49a2d75f3")
+			(uuid "36814099-b763-4727-9a46-3fc49a2d75f5")
 		)
 		(pin "4"
-			(uuid "5b347a64-7483-4436-a3e9-0e636486fcbb")
+			(uuid "5b347a64-7483-4436-a3e9-0e636486fcbd")
 		)
 		(pin "11"
-			(uuid "3f319db3-afe2-433a-8bae-02d1ba909892")
+			(uuid "3f319db3-afe2-433a-8bae-02d1ba909894")
 		)
 		(pin "10"
-			(uuid "10201768-7008-474f-be29-37b350ccb357")
+			(uuid "10201768-7008-474f-be29-37b350ccb359")
 		)
 		(pin "8"
-			(uuid "f4b450cb-639b-4438-a5e2-f80dae65b990")
+			(uuid "f4b450cb-639b-4438-a5e2-f80dae65b992")
 		)
 		(pin "9"
-			(uuid "4cca56cd-e049-40c1-a92f-bced1b91f2d3")
+			(uuid "4cca56cd-e049-40c1-a92f-bced1b91f2d5")
 		)
 		(pin "5"
-			(uuid "b04d02a7-50b3-4296-9807-dda302fb38c9")
+			(uuid "b04d02a7-50b3-4296-9807-dda302fb38cb")
 		)
 		(pin "2"
-			(uuid "0b8eb83e-211e-438e-98a9-5de3dcabfa33")
+			(uuid "0b8eb83e-211e-438e-98a9-5de3dcabfa34")
 		)
 		(pin "6"
-			(uuid "4e4e3881-1f3a-451a-9330-f49a27ff093e")
+			(uuid "4e4e3881-1f3a-451a-9330-f49a27ff0940")
 		)
 		(pin "12"
-			(uuid "5397ab4d-e2f8-4742-9eb6-d880afd8f9d4")
+			(uuid "5397ab4d-e2f8-4742-9eb6-d880afd8f9d6")
 		)
 		(pin "14"
-			(uuid "9a1df79d-ff97-425a-a6bc-b5dd1fc309ef")
+			(uuid "9a1df79d-ff97-425a-a6bc-b5dd1fc309f1")
 		)
 		(instances
 			(project "sap1_mk2"
@@ -10187,7 +10187,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 102.87 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -10308,7 +10308,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 149.86 25.4 0)
 			(hide yes)
 			(show_name no)
@@ -10477,7 +10477,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 105.41 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -10723,7 +10723,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
 			(at 200.66 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -10802,7 +10802,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 142.748 179.07 90)
 			(hide yes)
 			(show_name no)
@@ -10881,7 +10881,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 257.81 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -10915,46 +10915,46 @@
 			)
 		)
 		(pin "7"
-			(uuid "0659fffa-dd60-4b60-9f4c-fc47c6d14e99")
+			(uuid "0659fffa-dd60-4b60-9f4c-fc47c6d14e9c")
 		)
 		(pin "13"
-			(uuid "940df43d-26b8-494a-b611-2121abdbfa74")
+			(uuid "940df43d-26b8-494a-b611-2121abdbfa77")
 		)
 		(pin "1"
-			(uuid "f03a2e0f-81fa-4f20-a211-d41765f6db7f")
+			(uuid "f03a2e0f-81fa-4f20-a211-d41765f6db81")
 		)
 		(pin "3"
-			(uuid "36814099-b763-4727-9a46-3fc49a2d75f3")
+			(uuid "36814099-b763-4727-9a46-3fc49a2d75f6")
 		)
 		(pin "4"
-			(uuid "5b347a64-7483-4436-a3e9-0e636486fcbb")
+			(uuid "5b347a64-7483-4436-a3e9-0e636486fcbe")
 		)
 		(pin "11"
-			(uuid "3f319db3-afe2-433a-8bae-02d1ba909892")
+			(uuid "3f319db3-afe2-433a-8bae-02d1ba909895")
 		)
 		(pin "10"
-			(uuid "10201768-7008-474f-be29-37b350ccb357")
+			(uuid "10201768-7008-474f-be29-37b350ccb35a")
 		)
 		(pin "8"
-			(uuid "f4b450cb-639b-4438-a5e2-f80dae65b990")
+			(uuid "f4b450cb-639b-4438-a5e2-f80dae65b993")
 		)
 		(pin "9"
-			(uuid "4cca56cd-e049-40c1-a92f-bced1b91f2d3")
+			(uuid "4cca56cd-e049-40c1-a92f-bced1b91f2d6")
 		)
 		(pin "5"
-			(uuid "b04d02a7-50b3-4296-9807-dda302fb38c9")
+			(uuid "b04d02a7-50b3-4296-9807-dda302fb38cc")
 		)
 		(pin "2"
-			(uuid "0b8eb83e-211e-438e-98a9-5de3dcabfa33")
+			(uuid "0b8eb83e-211e-438e-98a9-5de3dcabfa35")
 		)
 		(pin "6"
-			(uuid "4e4e3881-1f3a-451a-9330-f49a27ff093e")
+			(uuid "4e4e3881-1f3a-451a-9330-f49a27ff0941")
 		)
 		(pin "12"
-			(uuid "5397ab4d-e2f8-4742-9eb6-d880afd8f9d4")
+			(uuid "5397ab4d-e2f8-4742-9eb6-d880afd8f9d7")
 		)
 		(pin "14"
-			(uuid "9a1df79d-ff97-425a-a6bc-b5dd1fc309ef")
+			(uuid "9a1df79d-ff97-425a-a6bc-b5dd1fc309f2")
 		)
 		(instances
 			(project "sap1_mk2"
@@ -10996,7 +10996,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH-12mm"
 			(at 50.8 127 0)
 			(hide yes)
 			(show_name no)
@@ -11077,7 +11077,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
 			(at 200.66 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -11156,7 +11156,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 137.668 179.07 90)
 			(hide yes)
 			(show_name no)
@@ -11235,7 +11235,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 95.25 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -11269,46 +11269,46 @@
 			)
 		)
 		(pin "8"
-			(uuid "865394b9-c9c7-4bb0-b0b2-4b0dbbbd0992")
+			(uuid "865394b9-c9c7-4bb0-b0b2-4b0dbbbd0993")
 		)
 		(pin "9"
-			(uuid "5c93339e-0b5c-4528-8b2a-c951b29f9aac")
+			(uuid "5c93339e-0b5c-4528-8b2a-c951b29f9aad")
 		)
 		(pin "1"
-			(uuid "5b4c9186-44cf-4a0b-9e69-989b7d5c66c2")
+			(uuid "5b4c9186-44cf-4a0b-9e69-989b7d5c66c3")
 		)
 		(pin "2"
-			(uuid "d005da14-7b09-45af-982f-73eab6532025")
+			(uuid "d005da14-7b09-45af-982f-73eab6532026")
 		)
 		(pin "5"
-			(uuid "c387280e-2d12-4998-ad72-ddf186757445")
+			(uuid "c387280e-2d12-4998-ad72-ddf186757446")
 		)
 		(pin "10"
-			(uuid "bdb2ce7f-4da1-4864-8493-75874bfdd94f")
+			(uuid "bdb2ce7f-4da1-4864-8493-75874bfdd950")
 		)
 		(pin "6"
-			(uuid "ca592680-d2c4-4c66-bdb9-b16b90ed94d7")
+			(uuid "ca592680-d2c4-4c66-bdb9-b16b90ed94d8")
 		)
 		(pin "4"
-			(uuid "32191bf4-3e15-4c66-89fe-7ff6d4113220")
+			(uuid "32191bf4-3e15-4c66-89fe-7ff6d4113221")
 		)
 		(pin "3"
-			(uuid "1fc9b13e-d444-45bd-886a-32b014baa164")
+			(uuid "1fc9b13e-d444-45bd-886a-32b014baa165")
 		)
 		(pin "11"
-			(uuid "a0ba47aa-2ee0-486d-8ad6-d7b6baf78561")
+			(uuid "a0ba47aa-2ee0-486d-8ad6-d7b6baf78562")
 		)
 		(pin "12"
-			(uuid "632cc79c-4ea5-4372-823c-cd89a032fb1d")
+			(uuid "632cc79c-4ea5-4372-823c-cd89a032fb1e")
 		)
 		(pin "13"
-			(uuid "e7855a01-592f-48ab-beb1-dd550cfe400b")
+			(uuid "e7855a01-592f-48ab-beb1-dd550cfe400c")
 		)
 		(pin "7"
-			(uuid "2354a085-15b3-4288-8984-eafbe0dc1a68")
+			(uuid "2354a085-15b3-4288-8984-eafbe0dc1a69")
 		)
 		(pin "14"
-			(uuid "f98bdf75-8ca0-4c76-9e09-bfd3d62a6a53")
+			(uuid "f98bdf75-8ca0-4c76-9e09-bfd3d62a6a54")
 		)
 		(instances
 			(project "sap1_mk2"
@@ -11350,7 +11350,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
 			(at 17.78 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -11431,7 +11431,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 95.25 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -11521,7 +11521,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 152.908 179.07 90)
 			(hide yes)
 			(show_name no)
@@ -11600,7 +11600,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 242.57 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -11634,46 +11634,46 @@
 			)
 		)
 		(pin "7"
-			(uuid "0659fffa-dd60-4b60-9f4c-fc47c6d14e9b")
+			(uuid "0659fffa-dd60-4b60-9f4c-fc47c6d14e9d")
 		)
 		(pin "13"
 			(uuid "edcb3fcd-f552-4f6a-bca3-833e619fed11")
 		)
 		(pin "1"
-			(uuid "f03a2e0f-81fa-4f20-a211-d41765f6db81")
+			(uuid "f03a2e0f-81fa-4f20-a211-d41765f6db82")
 		)
 		(pin "3"
-			(uuid "36814099-b763-4727-9a46-3fc49a2d75f5")
+			(uuid "36814099-b763-4727-9a46-3fc49a2d75f7")
 		)
 		(pin "4"
-			(uuid "5b347a64-7483-4436-a3e9-0e636486fcbd")
+			(uuid "5b347a64-7483-4436-a3e9-0e636486fcbf")
 		)
 		(pin "11"
-			(uuid "3f319db3-afe2-433a-8bae-02d1ba909894")
+			(uuid "3f319db3-afe2-433a-8bae-02d1ba909896")
 		)
 		(pin "10"
-			(uuid "10201768-7008-474f-be29-37b350ccb359")
+			(uuid "10201768-7008-474f-be29-37b350ccb35b")
 		)
 		(pin "8"
-			(uuid "f4b450cb-639b-4438-a5e2-f80dae65b992")
+			(uuid "f4b450cb-639b-4438-a5e2-f80dae65b994")
 		)
 		(pin "9"
-			(uuid "4cca56cd-e049-40c1-a92f-bced1b91f2d5")
+			(uuid "4cca56cd-e049-40c1-a92f-bced1b91f2d7")
 		)
 		(pin "5"
-			(uuid "b04d02a7-50b3-4296-9807-dda302fb38cb")
+			(uuid "b04d02a7-50b3-4296-9807-dda302fb38cd")
 		)
 		(pin "2"
-			(uuid "0b8eb83e-211e-438e-98a9-5de3dcabfa35")
+			(uuid "0b8eb83e-211e-438e-98a9-5de3dcabfa36")
 		)
 		(pin "6"
-			(uuid "4e4e3881-1f3a-451a-9330-f49a27ff0940")
+			(uuid "4e4e3881-1f3a-451a-9330-f49a27ff0942")
 		)
 		(pin "12"
 			(uuid "dee22a51-6d99-4b19-8e1b-86b6f18bff30")
 		)
 		(pin "14"
-			(uuid "9a1df79d-ff97-425a-a6bc-b5dd1fc309f1")
+			(uuid "9a1df79d-ff97-425a-a6bc-b5dd1fc309f3")
 		)
 		(instances
 			(project "sap1_mk2"
@@ -11794,7 +11794,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 166.37 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -11961,7 +11961,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 139.7 27.178 90)
 			(hide yes)
 			(show_name no)
@@ -12040,7 +12040,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 257.81 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -12074,46 +12074,46 @@
 			)
 		)
 		(pin "7"
-			(uuid "0659fffa-dd60-4b60-9f4c-fc47c6d14e99")
+			(uuid "0659fffa-dd60-4b60-9f4c-fc47c6d14e9e")
 		)
 		(pin "13"
-			(uuid "940df43d-26b8-494a-b611-2121abdbfa74")
+			(uuid "940df43d-26b8-494a-b611-2121abdbfa78")
 		)
 		(pin "1"
-			(uuid "f03a2e0f-81fa-4f20-a211-d41765f6db7f")
+			(uuid "f03a2e0f-81fa-4f20-a211-d41765f6db83")
 		)
 		(pin "3"
-			(uuid "36814099-b763-4727-9a46-3fc49a2d75f3")
+			(uuid "36814099-b763-4727-9a46-3fc49a2d75f8")
 		)
 		(pin "4"
-			(uuid "5b347a64-7483-4436-a3e9-0e636486fcbb")
+			(uuid "5b347a64-7483-4436-a3e9-0e636486fcc0")
 		)
 		(pin "11"
-			(uuid "3f319db3-afe2-433a-8bae-02d1ba909892")
+			(uuid "3f319db3-afe2-433a-8bae-02d1ba909897")
 		)
 		(pin "10"
-			(uuid "10201768-7008-474f-be29-37b350ccb357")
+			(uuid "10201768-7008-474f-be29-37b350ccb35c")
 		)
 		(pin "8"
-			(uuid "f4b450cb-639b-4438-a5e2-f80dae65b990")
+			(uuid "f4b450cb-639b-4438-a5e2-f80dae65b995")
 		)
 		(pin "9"
-			(uuid "4cca56cd-e049-40c1-a92f-bced1b91f2d3")
+			(uuid "4cca56cd-e049-40c1-a92f-bced1b91f2d8")
 		)
 		(pin "5"
-			(uuid "b04d02a7-50b3-4296-9807-dda302fb38c9")
+			(uuid "b04d02a7-50b3-4296-9807-dda302fb38ce")
 		)
 		(pin "2"
-			(uuid "0b8eb83e-211e-438e-98a9-5de3dcabfa33")
+			(uuid "0b8eb83e-211e-438e-98a9-5de3dcabfa37")
 		)
 		(pin "6"
-			(uuid "4e4e3881-1f3a-451a-9330-f49a27ff093e")
+			(uuid "4e4e3881-1f3a-451a-9330-f49a27ff0943")
 		)
 		(pin "12"
-			(uuid "5397ab4d-e2f8-4742-9eb6-d880afd8f9d4")
+			(uuid "5397ab4d-e2f8-4742-9eb6-d880afd8f9d8")
 		)
 		(pin "14"
-			(uuid "9a1df79d-ff97-425a-a6bc-b5dd1fc309ef")
+			(uuid "9a1df79d-ff97-425a-a6bc-b5dd1fc309f4")
 		)
 		(instances
 			(project "sap1_mk2"
@@ -12157,7 +12157,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
 			(at 95.25 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -12236,7 +12236,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 242.57 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -12270,46 +12270,46 @@
 			)
 		)
 		(pin "7"
-			(uuid "0659fffa-dd60-4b60-9f4c-fc47c6d14e99")
+			(uuid "0659fffa-dd60-4b60-9f4c-fc47c6d14e9f")
 		)
 		(pin "13"
-			(uuid "940df43d-26b8-494a-b611-2121abdbfa74")
+			(uuid "940df43d-26b8-494a-b611-2121abdbfa79")
 		)
 		(pin "1"
-			(uuid "f03a2e0f-81fa-4f20-a211-d41765f6db7f")
+			(uuid "f03a2e0f-81fa-4f20-a211-d41765f6db84")
 		)
 		(pin "3"
-			(uuid "36814099-b763-4727-9a46-3fc49a2d75f3")
+			(uuid "36814099-b763-4727-9a46-3fc49a2d75f9")
 		)
 		(pin "4"
-			(uuid "5b347a64-7483-4436-a3e9-0e636486fcbb")
+			(uuid "5b347a64-7483-4436-a3e9-0e636486fcc1")
 		)
 		(pin "11"
-			(uuid "3f319db3-afe2-433a-8bae-02d1ba909892")
+			(uuid "3f319db3-afe2-433a-8bae-02d1ba909898")
 		)
 		(pin "10"
-			(uuid "10201768-7008-474f-be29-37b350ccb357")
+			(uuid "10201768-7008-474f-be29-37b350ccb35d")
 		)
 		(pin "8"
-			(uuid "f4b450cb-639b-4438-a5e2-f80dae65b990")
+			(uuid "f4b450cb-639b-4438-a5e2-f80dae65b996")
 		)
 		(pin "9"
-			(uuid "4cca56cd-e049-40c1-a92f-bced1b91f2d3")
+			(uuid "4cca56cd-e049-40c1-a92f-bced1b91f2d9")
 		)
 		(pin "5"
 			(uuid "cf870143-7aa0-4846-853d-0940f560db62")
 		)
 		(pin "2"
-			(uuid "0b8eb83e-211e-438e-98a9-5de3dcabfa33")
+			(uuid "0b8eb83e-211e-438e-98a9-5de3dcabfa38")
 		)
 		(pin "6"
 			(uuid "ac8810db-cde0-49a6-afa8-acb5598b5c1e")
 		)
 		(pin "12"
-			(uuid "5397ab4d-e2f8-4742-9eb6-d880afd8f9d4")
+			(uuid "5397ab4d-e2f8-4742-9eb6-d880afd8f9d9")
 		)
 		(pin "14"
-			(uuid "9a1df79d-ff97-425a-a6bc-b5dd1fc309ef")
+			(uuid "9a1df79d-ff97-425a-a6bc-b5dd1fc309f5")
 		)
 		(instances
 			(project "sap1_mk2"
@@ -12353,7 +12353,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 110.49 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -12520,7 +12520,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 104.14 42.418 90)
 			(hide yes)
 			(show_name no)
@@ -12601,7 +12601,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 151.13 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -12693,7 +12693,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 140.97 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -12785,7 +12785,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
 			(at 146.05 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -12864,7 +12864,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 93.98 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -12954,7 +12954,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 112.268 179.07 90)
 			(hide yes)
 			(show_name no)
@@ -13035,7 +13035,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 130.81 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -13125,7 +13125,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 97.028 179.07 90)
 			(hide yes)
 			(show_name no)
@@ -13204,7 +13204,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 50.8 138.938 90)
 			(hide yes)
 			(show_name no)
@@ -13283,7 +13283,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 242.57 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -13317,46 +13317,46 @@
 			)
 		)
 		(pin "7"
-			(uuid "0659fffa-dd60-4b60-9f4c-fc47c6d14e99")
+			(uuid "0659fffa-dd60-4b60-9f4c-fc47c6d14ea0")
 		)
 		(pin "13"
-			(uuid "940df43d-26b8-494a-b611-2121abdbfa74")
+			(uuid "940df43d-26b8-494a-b611-2121abdbfa7a")
 		)
 		(pin "1"
-			(uuid "f03a2e0f-81fa-4f20-a211-d41765f6db7f")
+			(uuid "f03a2e0f-81fa-4f20-a211-d41765f6db85")
 		)
 		(pin "3"
-			(uuid "36814099-b763-4727-9a46-3fc49a2d75f3")
+			(uuid "36814099-b763-4727-9a46-3fc49a2d75fa")
 		)
 		(pin "4"
-			(uuid "5b347a64-7483-4436-a3e9-0e636486fcbb")
+			(uuid "5b347a64-7483-4436-a3e9-0e636486fcc2")
 		)
 		(pin "11"
-			(uuid "3f319db3-afe2-433a-8bae-02d1ba909892")
+			(uuid "3f319db3-afe2-433a-8bae-02d1ba909899")
 		)
 		(pin "10"
-			(uuid "10201768-7008-474f-be29-37b350ccb357")
+			(uuid "10201768-7008-474f-be29-37b350ccb35e")
 		)
 		(pin "8"
-			(uuid "f4b450cb-639b-4438-a5e2-f80dae65b990")
+			(uuid "f4b450cb-639b-4438-a5e2-f80dae65b997")
 		)
 		(pin "9"
-			(uuid "4cca56cd-e049-40c1-a92f-bced1b91f2d3")
+			(uuid "4cca56cd-e049-40c1-a92f-bced1b91f2da")
 		)
 		(pin "5"
-			(uuid "b04d02a7-50b3-4296-9807-dda302fb38c9")
+			(uuid "b04d02a7-50b3-4296-9807-dda302fb38cf")
 		)
 		(pin "2"
-			(uuid "0b8eb83e-211e-438e-98a9-5de3dcabfa33")
+			(uuid "0b8eb83e-211e-438e-98a9-5de3dcabfa39")
 		)
 		(pin "6"
-			(uuid "4e4e3881-1f3a-451a-9330-f49a27ff093e")
+			(uuid "4e4e3881-1f3a-451a-9330-f49a27ff0944")
 		)
 		(pin "12"
-			(uuid "5397ab4d-e2f8-4742-9eb6-d880afd8f9d4")
+			(uuid "5397ab4d-e2f8-4742-9eb6-d880afd8f9da")
 		)
 		(pin "14"
-			(uuid "9a1df79d-ff97-425a-a6bc-b5dd1fc309ef")
+			(uuid "9a1df79d-ff97-425a-a6bc-b5dd1fc309f6")
 		)
 		(instances
 			(project "sap1_mk2"
@@ -13398,7 +13398,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 147.828 179.07 90)
 			(hide yes)
 			(show_name no)
@@ -13477,7 +13477,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 257.81 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -13511,46 +13511,46 @@
 			)
 		)
 		(pin "7"
-			(uuid "0659fffa-dd60-4b60-9f4c-fc47c6d14e99")
+			(uuid "0659fffa-dd60-4b60-9f4c-fc47c6d14ea1")
 		)
 		(pin "13"
-			(uuid "940df43d-26b8-494a-b611-2121abdbfa74")
+			(uuid "940df43d-26b8-494a-b611-2121abdbfa7b")
 		)
 		(pin "1"
-			(uuid "f03a2e0f-81fa-4f20-a211-d41765f6db7f")
+			(uuid "f03a2e0f-81fa-4f20-a211-d41765f6db86")
 		)
 		(pin "3"
-			(uuid "36814099-b763-4727-9a46-3fc49a2d75f3")
+			(uuid "36814099-b763-4727-9a46-3fc49a2d75fb")
 		)
 		(pin "4"
-			(uuid "5b347a64-7483-4436-a3e9-0e636486fcbb")
+			(uuid "5b347a64-7483-4436-a3e9-0e636486fcc3")
 		)
 		(pin "11"
-			(uuid "3f319db3-afe2-433a-8bae-02d1ba909892")
+			(uuid "3f319db3-afe2-433a-8bae-02d1ba90989a")
 		)
 		(pin "10"
-			(uuid "10201768-7008-474f-be29-37b350ccb357")
+			(uuid "10201768-7008-474f-be29-37b350ccb35f")
 		)
 		(pin "8"
-			(uuid "f4b450cb-639b-4438-a5e2-f80dae65b990")
+			(uuid "f4b450cb-639b-4438-a5e2-f80dae65b998")
 		)
 		(pin "9"
-			(uuid "4cca56cd-e049-40c1-a92f-bced1b91f2d3")
+			(uuid "4cca56cd-e049-40c1-a92f-bced1b91f2db")
 		)
 		(pin "5"
-			(uuid "b04d02a7-50b3-4296-9807-dda302fb38c9")
+			(uuid "b04d02a7-50b3-4296-9807-dda302fb38d0")
 		)
 		(pin "2"
-			(uuid "0b8eb83e-211e-438e-98a9-5de3dcabfa33")
+			(uuid "0b8eb83e-211e-438e-98a9-5de3dcabfa3a")
 		)
 		(pin "6"
-			(uuid "4e4e3881-1f3a-451a-9330-f49a27ff093e")
+			(uuid "4e4e3881-1f3a-451a-9330-f49a27ff0945")
 		)
 		(pin "12"
-			(uuid "5397ab4d-e2f8-4742-9eb6-d880afd8f9d4")
+			(uuid "5397ab4d-e2f8-4742-9eb6-d880afd8f9db")
 		)
 		(pin "14"
-			(uuid "9a1df79d-ff97-425a-a6bc-b5dd1fc309ef")
+			(uuid "9a1df79d-ff97-425a-a6bc-b5dd1fc309f7")
 		)
 		(instances
 			(project "sap1_mk2"
@@ -13669,7 +13669,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 93.98 20.32 0)
 			(hide yes)
 			(show_name no)
@@ -13761,7 +13761,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 120.65 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -13853,7 +13853,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 27.94 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -13887,46 +13887,46 @@
 			)
 		)
 		(pin "8"
-			(uuid "865394b9-c9c7-4bb0-b0b2-4b0dbbbd0992")
+			(uuid "865394b9-c9c7-4bb0-b0b2-4b0dbbbd0994")
 		)
 		(pin "9"
-			(uuid "5c93339e-0b5c-4528-8b2a-c951b29f9aac")
+			(uuid "5c93339e-0b5c-4528-8b2a-c951b29f9aae")
 		)
 		(pin "1"
-			(uuid "5b4c9186-44cf-4a0b-9e69-989b7d5c66c2")
+			(uuid "5b4c9186-44cf-4a0b-9e69-989b7d5c66c4")
 		)
 		(pin "2"
-			(uuid "d005da14-7b09-45af-982f-73eab6532025")
+			(uuid "d005da14-7b09-45af-982f-73eab6532027")
 		)
 		(pin "5"
-			(uuid "c387280e-2d12-4998-ad72-ddf186757445")
+			(uuid "c387280e-2d12-4998-ad72-ddf186757447")
 		)
 		(pin "10"
-			(uuid "bdb2ce7f-4da1-4864-8493-75874bfdd94f")
+			(uuid "bdb2ce7f-4da1-4864-8493-75874bfdd951")
 		)
 		(pin "6"
-			(uuid "ca592680-d2c4-4c66-bdb9-b16b90ed94d7")
+			(uuid "ca592680-d2c4-4c66-bdb9-b16b90ed94d9")
 		)
 		(pin "4"
-			(uuid "32191bf4-3e15-4c66-89fe-7ff6d4113220")
+			(uuid "32191bf4-3e15-4c66-89fe-7ff6d4113222")
 		)
 		(pin "3"
-			(uuid "1fc9b13e-d444-45bd-886a-32b014baa164")
+			(uuid "1fc9b13e-d444-45bd-886a-32b014baa166")
 		)
 		(pin "11"
-			(uuid "a0ba47aa-2ee0-486d-8ad6-d7b6baf78561")
+			(uuid "a0ba47aa-2ee0-486d-8ad6-d7b6baf78563")
 		)
 		(pin "12"
-			(uuid "632cc79c-4ea5-4372-823c-cd89a032fb1d")
+			(uuid "632cc79c-4ea5-4372-823c-cd89a032fb1f")
 		)
 		(pin "13"
-			(uuid "e7855a01-592f-48ab-beb1-dd550cfe400b")
+			(uuid "e7855a01-592f-48ab-beb1-dd550cfe400d")
 		)
 		(pin "7"
-			(uuid "2354a085-15b3-4288-8984-eafbe0dc1a68")
+			(uuid "2354a085-15b3-4288-8984-eafbe0dc1a6a")
 		)
 		(pin "14"
-			(uuid "f98bdf75-8ca0-4c76-9e09-bfd3d62a6a53")
+			(uuid "f98bdf75-8ca0-4c76-9e09-bfd3d62a6a55")
 		)
 		(instances
 			(project "sap1_mk2"
@@ -14047,7 +14047,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 90.17 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -14139,7 +14139,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 135.89 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -14229,7 +14229,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 104.14 32.258 90)
 			(hide yes)
 			(show_name no)
@@ -14310,7 +14310,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 49.53 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -14344,46 +14344,46 @@
 			)
 		)
 		(pin "7"
-			(uuid "0659fffa-dd60-4b60-9f4c-fc47c6d14e99")
+			(uuid "0659fffa-dd60-4b60-9f4c-fc47c6d14ea2")
 		)
 		(pin "13"
-			(uuid "940df43d-26b8-494a-b611-2121abdbfa74")
+			(uuid "940df43d-26b8-494a-b611-2121abdbfa7c")
 		)
 		(pin "1"
-			(uuid "f03a2e0f-81fa-4f20-a211-d41765f6db7f")
+			(uuid "f03a2e0f-81fa-4f20-a211-d41765f6db87")
 		)
 		(pin "3"
-			(uuid "36814099-b763-4727-9a46-3fc49a2d75f3")
+			(uuid "36814099-b763-4727-9a46-3fc49a2d75fc")
 		)
 		(pin "4"
-			(uuid "5b347a64-7483-4436-a3e9-0e636486fcbb")
+			(uuid "5b347a64-7483-4436-a3e9-0e636486fcc4")
 		)
 		(pin "11"
-			(uuid "3f319db3-afe2-433a-8bae-02d1ba909892")
+			(uuid "3f319db3-afe2-433a-8bae-02d1ba90989b")
 		)
 		(pin "10"
-			(uuid "10201768-7008-474f-be29-37b350ccb357")
+			(uuid "10201768-7008-474f-be29-37b350ccb360")
 		)
 		(pin "8"
-			(uuid "f4b450cb-639b-4438-a5e2-f80dae65b990")
+			(uuid "f4b450cb-639b-4438-a5e2-f80dae65b999")
 		)
 		(pin "9"
-			(uuid "4cca56cd-e049-40c1-a92f-bced1b91f2d3")
+			(uuid "4cca56cd-e049-40c1-a92f-bced1b91f2dc")
 		)
 		(pin "5"
-			(uuid "b04d02a7-50b3-4296-9807-dda302fb38c9")
+			(uuid "b04d02a7-50b3-4296-9807-dda302fb38d1")
 		)
 		(pin "2"
-			(uuid "0b8eb83e-211e-438e-98a9-5de3dcabfa33")
+			(uuid "0b8eb83e-211e-438e-98a9-5de3dcabfa3b")
 		)
 		(pin "6"
-			(uuid "4e4e3881-1f3a-451a-9330-f49a27ff093e")
+			(uuid "4e4e3881-1f3a-451a-9330-f49a27ff0946")
 		)
 		(pin "12"
-			(uuid "5397ab4d-e2f8-4742-9eb6-d880afd8f9d4")
+			(uuid "5397ab4d-e2f8-4742-9eb6-d880afd8f9dc")
 		)
 		(pin "14"
-			(uuid "9a1df79d-ff97-425a-a6bc-b5dd1fc309ef")
+			(uuid "9a1df79d-ff97-425a-a6bc-b5dd1fc309f8")
 		)
 		(instances
 			(project "sap1_mk2"
@@ -14425,7 +14425,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 104.14 27.178 90)
 			(hide yes)
 			(show_name no)
@@ -14504,7 +14504,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 63.5 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -14538,25 +14538,25 @@
 			)
 		)
 		(pin "7"
-			(uuid "0659fffa-dd60-4b60-9f4c-fc47c6d14e9c")
+			(uuid "0659fffa-dd60-4b60-9f4c-fc47c6d14ea3")
 		)
 		(pin "13"
-			(uuid "940df43d-26b8-494a-b611-2121abdbfa77")
+			(uuid "940df43d-26b8-494a-b611-2121abdbfa7d")
 		)
 		(pin "1"
-			(uuid "f03a2e0f-81fa-4f20-a211-d41765f6db82")
+			(uuid "f03a2e0f-81fa-4f20-a211-d41765f6db88")
 		)
 		(pin "3"
-			(uuid "36814099-b763-4727-9a46-3fc49a2d75f6")
+			(uuid "36814099-b763-4727-9a46-3fc49a2d75fd")
 		)
 		(pin "4"
-			(uuid "5b347a64-7483-4436-a3e9-0e636486fcbe")
+			(uuid "5b347a64-7483-4436-a3e9-0e636486fcc5")
 		)
 		(pin "11"
-			(uuid "3f319db3-afe2-433a-8bae-02d1ba909895")
+			(uuid "3f319db3-afe2-433a-8bae-02d1ba90989c")
 		)
 		(pin "10"
-			(uuid "10201768-7008-474f-be29-37b350ccb35a")
+			(uuid "10201768-7008-474f-be29-37b350ccb361")
 		)
 		(pin "8"
 			(uuid "85eeed12-98a5-409b-a6ab-010489cd8980")
@@ -14565,19 +14565,19 @@
 			(uuid "3541cdc1-ced4-4c66-b1a5-4d6d73e8294a")
 		)
 		(pin "5"
-			(uuid "b04d02a7-50b3-4296-9807-dda302fb38cc")
+			(uuid "b04d02a7-50b3-4296-9807-dda302fb38d2")
 		)
 		(pin "2"
-			(uuid "0b8eb83e-211e-438e-98a9-5de3dcabfa36")
+			(uuid "0b8eb83e-211e-438e-98a9-5de3dcabfa3c")
 		)
 		(pin "6"
-			(uuid "4e4e3881-1f3a-451a-9330-f49a27ff0941")
+			(uuid "4e4e3881-1f3a-451a-9330-f49a27ff0947")
 		)
 		(pin "12"
-			(uuid "5397ab4d-e2f8-4742-9eb6-d880afd8f9d7")
+			(uuid "5397ab4d-e2f8-4742-9eb6-d880afd8f9dd")
 		)
 		(pin "14"
-			(uuid "9a1df79d-ff97-425a-a6bc-b5dd1fc309f2")
+			(uuid "9a1df79d-ff97-425a-a6bc-b5dd1fc309f9")
 		)
 		(instances
 			(project "sap1_mk2"
@@ -14619,7 +14619,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 257.81 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -14653,13 +14653,13 @@
 			)
 		)
 		(pin "7"
-			(uuid "0659fffa-dd60-4b60-9f4c-fc47c6d14e9e")
+			(uuid "0659fffa-dd60-4b60-9f4c-fc47c6d14ea4")
 		)
 		(pin "13"
-			(uuid "940df43d-26b8-494a-b611-2121abdbfa79")
+			(uuid "940df43d-26b8-494a-b611-2121abdbfa7e")
 		)
 		(pin "1"
-			(uuid "f03a2e0f-81fa-4f20-a211-d41765f6db84")
+			(uuid "f03a2e0f-81fa-4f20-a211-d41765f6db89")
 		)
 		(pin "3"
 			(uuid "9189864b-ae85-4f64-a249-84d82fc10da1")
@@ -14668,31 +14668,31 @@
 			(uuid "3f4b5451-d4aa-49f5-b55c-4841bd0be75b")
 		)
 		(pin "11"
-			(uuid "3f319db3-afe2-433a-8bae-02d1ba909897")
+			(uuid "3f319db3-afe2-433a-8bae-02d1ba90989d")
 		)
 		(pin "10"
-			(uuid "10201768-7008-474f-be29-37b350ccb35c")
+			(uuid "10201768-7008-474f-be29-37b350ccb362")
 		)
 		(pin "8"
-			(uuid "f4b450cb-639b-4438-a5e2-f80dae65b995")
+			(uuid "f4b450cb-639b-4438-a5e2-f80dae65b99a")
 		)
 		(pin "9"
-			(uuid "4cca56cd-e049-40c1-a92f-bced1b91f2d8")
+			(uuid "4cca56cd-e049-40c1-a92f-bced1b91f2dd")
 		)
 		(pin "5"
-			(uuid "b04d02a7-50b3-4296-9807-dda302fb38ce")
+			(uuid "b04d02a7-50b3-4296-9807-dda302fb38d3")
 		)
 		(pin "2"
-			(uuid "0b8eb83e-211e-438e-98a9-5de3dcabfa38")
+			(uuid "0b8eb83e-211e-438e-98a9-5de3dcabfa3d")
 		)
 		(pin "6"
-			(uuid "4e4e3881-1f3a-451a-9330-f49a27ff0943")
+			(uuid "4e4e3881-1f3a-451a-9330-f49a27ff0948")
 		)
 		(pin "12"
-			(uuid "5397ab4d-e2f8-4742-9eb6-d880afd8f9d9")
+			(uuid "5397ab4d-e2f8-4742-9eb6-d880afd8f9de")
 		)
 		(pin "14"
-			(uuid "9a1df79d-ff97-425a-a6bc-b5dd1fc309f4")
+			(uuid "9a1df79d-ff97-425a-a6bc-b5dd1fc309fa")
 		)
 		(instances
 			(project "sap1_mk2"
@@ -14734,7 +14734,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 257.81 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -14768,19 +14768,19 @@
 			)
 		)
 		(pin "7"
-			(uuid "0659fffa-dd60-4b60-9f4c-fc47c6d14e9d")
+			(uuid "0659fffa-dd60-4b60-9f4c-fc47c6d14ea5")
 		)
 		(pin "13"
-			(uuid "940df43d-26b8-494a-b611-2121abdbfa78")
+			(uuid "940df43d-26b8-494a-b611-2121abdbfa7f")
 		)
 		(pin "1"
-			(uuid "f03a2e0f-81fa-4f20-a211-d41765f6db83")
+			(uuid "f03a2e0f-81fa-4f20-a211-d41765f6db8a")
 		)
 		(pin "3"
-			(uuid "36814099-b763-4727-9a46-3fc49a2d75f7")
+			(uuid "36814099-b763-4727-9a46-3fc49a2d75fe")
 		)
 		(pin "4"
-			(uuid "5b347a64-7483-4436-a3e9-0e636486fcbf")
+			(uuid "5b347a64-7483-4436-a3e9-0e636486fcc6")
 		)
 		(pin "11"
 			(uuid "7e776145-b4bf-4104-bbe4-48bd77ba2ac4")
@@ -14789,25 +14789,25 @@
 			(uuid "3ccecab5-56ae-4502-8ebd-1c15958d730e")
 		)
 		(pin "8"
-			(uuid "f4b450cb-639b-4438-a5e2-f80dae65b994")
+			(uuid "f4b450cb-639b-4438-a5e2-f80dae65b99b")
 		)
 		(pin "9"
-			(uuid "4cca56cd-e049-40c1-a92f-bced1b91f2d7")
+			(uuid "4cca56cd-e049-40c1-a92f-bced1b91f2de")
 		)
 		(pin "5"
-			(uuid "b04d02a7-50b3-4296-9807-dda302fb38cd")
+			(uuid "b04d02a7-50b3-4296-9807-dda302fb38d4")
 		)
 		(pin "2"
-			(uuid "0b8eb83e-211e-438e-98a9-5de3dcabfa37")
+			(uuid "0b8eb83e-211e-438e-98a9-5de3dcabfa3e")
 		)
 		(pin "6"
-			(uuid "4e4e3881-1f3a-451a-9330-f49a27ff0942")
+			(uuid "4e4e3881-1f3a-451a-9330-f49a27ff0949")
 		)
 		(pin "12"
-			(uuid "5397ab4d-e2f8-4742-9eb6-d880afd8f9d8")
+			(uuid "5397ab4d-e2f8-4742-9eb6-d880afd8f9df")
 		)
 		(pin "14"
-			(uuid "9a1df79d-ff97-425a-a6bc-b5dd1fc309f3")
+			(uuid "9a1df79d-ff97-425a-a6bc-b5dd1fc309fb")
 		)
 		(instances
 			(project "sap1_mk2"
@@ -14849,7 +14849,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 149.86 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -14941,7 +14941,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 146.05 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -15033,7 +15033,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 130.81 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -15233,7 +15233,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 68.58 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -15267,46 +15267,46 @@
 			)
 		)
 		(pin "8"
-			(uuid "865394b9-c9c7-4bb0-b0b2-4b0dbbbd0992")
+			(uuid "865394b9-c9c7-4bb0-b0b2-4b0dbbbd0995")
 		)
 		(pin "9"
-			(uuid "5c93339e-0b5c-4528-8b2a-c951b29f9aac")
+			(uuid "5c93339e-0b5c-4528-8b2a-c951b29f9aaf")
 		)
 		(pin "1"
-			(uuid "5b4c9186-44cf-4a0b-9e69-989b7d5c66c2")
+			(uuid "5b4c9186-44cf-4a0b-9e69-989b7d5c66c5")
 		)
 		(pin "2"
-			(uuid "d005da14-7b09-45af-982f-73eab6532025")
+			(uuid "d005da14-7b09-45af-982f-73eab6532028")
 		)
 		(pin "5"
-			(uuid "c387280e-2d12-4998-ad72-ddf186757445")
+			(uuid "c387280e-2d12-4998-ad72-ddf186757448")
 		)
 		(pin "10"
-			(uuid "bdb2ce7f-4da1-4864-8493-75874bfdd94f")
+			(uuid "bdb2ce7f-4da1-4864-8493-75874bfdd952")
 		)
 		(pin "6"
-			(uuid "ca592680-d2c4-4c66-bdb9-b16b90ed94d7")
+			(uuid "ca592680-d2c4-4c66-bdb9-b16b90ed94da")
 		)
 		(pin "4"
-			(uuid "32191bf4-3e15-4c66-89fe-7ff6d4113220")
+			(uuid "32191bf4-3e15-4c66-89fe-7ff6d4113223")
 		)
 		(pin "3"
-			(uuid "1fc9b13e-d444-45bd-886a-32b014baa164")
+			(uuid "1fc9b13e-d444-45bd-886a-32b014baa167")
 		)
 		(pin "11"
-			(uuid "a0ba47aa-2ee0-486d-8ad6-d7b6baf78561")
+			(uuid "a0ba47aa-2ee0-486d-8ad6-d7b6baf78564")
 		)
 		(pin "12"
-			(uuid "632cc79c-4ea5-4372-823c-cd89a032fb1d")
+			(uuid "632cc79c-4ea5-4372-823c-cd89a032fb20")
 		)
 		(pin "13"
-			(uuid "e7855a01-592f-48ab-beb1-dd550cfe400b")
+			(uuid "e7855a01-592f-48ab-beb1-dd550cfe400e")
 		)
 		(pin "7"
-			(uuid "2354a085-15b3-4288-8984-eafbe0dc1a68")
+			(uuid "2354a085-15b3-4288-8984-eafbe0dc1a6b")
 		)
 		(pin "14"
-			(uuid "f98bdf75-8ca0-4c76-9e09-bfd3d62a6a53")
+			(uuid "f98bdf75-8ca0-4c76-9e09-bfd3d62a6a56")
 		)
 		(instances
 			(project "sap1_mk2"
@@ -15348,7 +15348,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 122.428 179.07 90)
 			(hide yes)
 			(show_name no)
@@ -15427,7 +15427,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 93.98 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -15517,7 +15517,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 149.86 20.32 0)
 			(hide yes)
 			(show_name no)
@@ -15607,7 +15607,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 139.7 22.098 90)
 			(hide yes)
 			(show_name no)
@@ -15686,7 +15686,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 168.148 179.07 90)
 			(hide yes)
 			(show_name no)
@@ -15765,7 +15765,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 117.348 179.07 90)
 			(hide yes)
 			(show_name no)
@@ -15921,7 +15921,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 163.068 179.07 90)
 			(hide yes)
 			(show_name no)
@@ -16002,7 +16002,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 156.21 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -16094,7 +16094,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 125.73 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -16184,7 +16184,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 68.58 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -16218,46 +16218,46 @@
 			)
 		)
 		(pin "8"
-			(uuid "865394b9-c9c7-4bb0-b0b2-4b0dbbbd0992")
+			(uuid "865394b9-c9c7-4bb0-b0b2-4b0dbbbd0996")
 		)
 		(pin "9"
-			(uuid "5c93339e-0b5c-4528-8b2a-c951b29f9aac")
+			(uuid "5c93339e-0b5c-4528-8b2a-c951b29f9ab0")
 		)
 		(pin "1"
-			(uuid "5b4c9186-44cf-4a0b-9e69-989b7d5c66c2")
+			(uuid "5b4c9186-44cf-4a0b-9e69-989b7d5c66c6")
 		)
 		(pin "2"
-			(uuid "d005da14-7b09-45af-982f-73eab6532025")
+			(uuid "d005da14-7b09-45af-982f-73eab6532029")
 		)
 		(pin "5"
-			(uuid "c387280e-2d12-4998-ad72-ddf186757445")
+			(uuid "c387280e-2d12-4998-ad72-ddf186757449")
 		)
 		(pin "10"
-			(uuid "bdb2ce7f-4da1-4864-8493-75874bfdd94f")
+			(uuid "bdb2ce7f-4da1-4864-8493-75874bfdd953")
 		)
 		(pin "6"
-			(uuid "ca592680-d2c4-4c66-bdb9-b16b90ed94d7")
+			(uuid "ca592680-d2c4-4c66-bdb9-b16b90ed94db")
 		)
 		(pin "4"
-			(uuid "32191bf4-3e15-4c66-89fe-7ff6d4113220")
+			(uuid "32191bf4-3e15-4c66-89fe-7ff6d4113224")
 		)
 		(pin "3"
-			(uuid "1fc9b13e-d444-45bd-886a-32b014baa164")
+			(uuid "1fc9b13e-d444-45bd-886a-32b014baa168")
 		)
 		(pin "11"
-			(uuid "a0ba47aa-2ee0-486d-8ad6-d7b6baf78561")
+			(uuid "a0ba47aa-2ee0-486d-8ad6-d7b6baf78565")
 		)
 		(pin "12"
-			(uuid "632cc79c-4ea5-4372-823c-cd89a032fb1d")
+			(uuid "632cc79c-4ea5-4372-823c-cd89a032fb21")
 		)
 		(pin "13"
-			(uuid "e7855a01-592f-48ab-beb1-dd550cfe400b")
+			(uuid "e7855a01-592f-48ab-beb1-dd550cfe400f")
 		)
 		(pin "7"
-			(uuid "2354a085-15b3-4288-8984-eafbe0dc1a68")
+			(uuid "2354a085-15b3-4288-8984-eafbe0dc1a6c")
 		)
 		(pin "14"
-			(uuid "f98bdf75-8ca0-4c76-9e09-bfd3d62a6a53")
+			(uuid "f98bdf75-8ca0-4c76-9e09-bfd3d62a6a57")
 		)
 		(instances
 			(project "sap1_mk2"
@@ -16299,7 +16299,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 132.588 179.07 90)
 			(hide yes)
 			(show_name no)
