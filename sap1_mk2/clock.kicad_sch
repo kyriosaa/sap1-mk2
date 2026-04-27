@@ -4345,6 +4345,12 @@
 		(color 0 0 0 0)
 		(uuid "fe0ff3ec-c958-4957-803e-d755aec7da7f")
 	)
+	(junction
+		(at 133.35 69.85)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ff370d28-8f7e-4801-bd2c-0cce075ed773")
+	)
 	(no_connect
 		(at 64.77 128.27)
 		(uuid "30260ee1-dda7-437d-b1a7-6fea883e7386")
@@ -4379,7 +4385,7 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 69.85) (xy 151.13 69.85)
+			(xy 120.65 69.85) (xy 133.35 69.85)
 		)
 		(stroke
 			(width 0)
@@ -4469,7 +4475,7 @@
 	)
 	(wire
 		(pts
-			(xy 133.35 66.04) (xy 133.35 72.39)
+			(xy 133.35 66.04) (xy 133.35 69.85)
 		)
 		(stroke
 			(width 0)
@@ -5199,6 +5205,16 @@
 	)
 	(wire
 		(pts
+			(xy 133.35 69.85) (xy 133.35 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9c8120e1-e17f-4b50-83a0-a9f78379d58b")
+	)
+	(wire
+		(pts
 			(xy 229.87 111.76) (xy 238.76 111.76)
 		)
 		(stroke
@@ -5376,6 +5392,16 @@
 			(type default)
 		)
 		(uuid "b0395dea-a576-4a12-acd0-54e837898ca1")
+	)
+	(wire
+		(pts
+			(xy 133.35 69.85) (xy 151.13 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b0e55d5f-405a-41ee-ab1a-b8b7d5196732")
 	)
 	(wire
 		(pts
@@ -8506,7 +8532,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_Push_2P2T_Toggle_CK_PVA2OAH5xxxxxxV2"
+		(property "Footprint" "Button_Switch_THT:SW_Slide_SPDT_Straight_CK_OS102011MS2Q"
 			(at 203.2 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -8590,7 +8616,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical"
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Alps_RK09L_Single_Vertical"
 			(at 99.06 53.34 0)
 			(hide yes)
 			(show_name no)
